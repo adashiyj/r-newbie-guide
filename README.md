@@ -2,9 +2,9 @@
 Hi there, welcome to visit this public repository of learning R as a newbie. If you have a Social Science background, have no or little programming experience, would like to stop spending money on statistical softwares (e.g., SPSS, STATA), and eager to learn R in a productive way, then you're at the right place!✨
 
 ## Me and R
-I'm a Communication Science research master's student at the University of Amsterdam. My story with R began not too long ago, as I started to learn this programming language in October 2024. I had some programming experience in Python when I was an undergraduate student. However, speaking from someone who's not tech-savy, it is still challenging and sometimes frustrating when I'm learning R.
+I'm a Communication Science research master's student at the University of Amsterdam. My story with R began not too long ago, as I started to learn this programming language in October 2024. I had some programming experience in Python when I was an undergraduate student. However, speaking from someone who's not tech-savy, it is still challenging and sometimes frustrating as I keep trying to get better with programming in R.
 
-It can be quite intimidating to learn programming alone. For this reason, I thought it might be nice to set up a community and learn from each other. 
+To support Open Science, I will keep updating helpful learning materials in this repository. 
 
 ## Learning Materials
 ### Books
