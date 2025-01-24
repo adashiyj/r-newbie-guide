@@ -4,8 +4,10 @@ Hi there, welcome to visit this public repository of learning R as a newbie. If 
 ## Me and R
 I'm a Communication Science research master's student at the University of Amsterdam. My story with R began not too long ago, as I started to learn this programming language in October 2024. I had some programming experience in Python when I was an undergraduate student. However, speaking from someone who's not tech-savy, it was still challenging and sometimes frustrating when I began to learn R. Luckily, the feeling of frustration is temporary. Once you master the basics, you'll feel a sense of achievement and motivated to learn more.
 
-## Helpful Study Resources
+## Learning Materials
 ### Books
 - [R for Data Science](https://r4ds.hadley.nz/)
 - [Computational Analysis of Communication](https://cssbook.net/)
-### Course Materials
+### Courses
+- [CCS at the VU](https://github.com/ccs-amsterdam/r-course-material/tree/master?tab=readme-ov-file)
+- ["Using R for data wrangling, analysis, and visualization" at the UvA](https://github.com/csch0lz/UsingRTutorials2425)
