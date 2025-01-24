@@ -4,7 +4,7 @@ Hi there, welcome to visit this public repository of learning R as a newbie. If 
 ## Me and R
 I'm a Communication Science research master's student at the University of Amsterdam. My story with R began not too long ago, as I started to learn this programming language in October 2024. I had some programming experience in Python when I was an undergrad. However, speaking from someone who's not tech-savy, it is still challenging and sometimes frustrating as I keep trying to get better with programming in R.
 
-To support Open Science, I will keep updating helpful learning materials in this repository. Good luck with your programming and please stay tuned!
+To support Open Science, I will keep updating helpful learning materials in this repository. Good luck with your programming and stay tuned!
 
 ## Learning Materials
 ### Books
