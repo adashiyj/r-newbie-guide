@@ -13,3 +13,5 @@ To support Open Science, I will keep updating helpful learning materials in this
 ### Courses
 - [CCS at the VU](https://github.com/ccs-amsterdam/r-course-material/tree/master?tab=readme-ov-file)
 - ["Using R for data wrangling, analysis, and visualization" at the UvA](https://github.com/csch0lz/UsingRTutorials2425)
+### R Packages
+- [metatargetr by Dr. Votta](https://github.com/favstats/metatargetr)
